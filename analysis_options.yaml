@@ -12,3 +12,4 @@ linter:
   rules:
     public_member_api_docs: false
     unnecessary_lambdas: false
+    lines_longer_than_80_chars: false
